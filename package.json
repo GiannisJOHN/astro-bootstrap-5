@@ -1,0 +1,23 @@
+{
+  "name": "astro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@astrojs/preact": "^3.0.0",
+    "preact": "^10.17.1"
+  },
+  "devDependencies": {
+    "astro": "^3.0.12"
+  }
+}
